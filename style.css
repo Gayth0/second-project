@@ -1,0 +1,154 @@
+
+
+header{
+   background-color: rgb(238, 229, 206);
+   position: fixed;
+   width: 100%;
+  
+}
+
+header a{
+
+   text-decoration: none;
+   color: rgb(141, 136, 136);
+   font-weight: 600;
+  padding: 15px;
+  
+ 
+
+}
+
+
+.about{
+   
+ 
+   display: flex;
+   justify-content: space-between;
+   margin: 30px;
+   ;
+   
+  
+
+}
+
+  
+
+header a:hover{
+background-color: rgb(209, 224, 224);
+}
+
+img{
+ width: 100%;
+
+
+}
+
+.le{
+
+   font-size: 30px;
+   margin-left: 40px;
+   position: relative;
+   bottom: 100px;
+  
+   
+}
+section{
+   display: flex;
+   justify-content: space-between;
+}
+
+.tab{
+  
+   width: 90%;
+   display: inline-block;
+ 
+   margin-left: 70px;
+   
+   
+   
+}
+
+.since{
+  
+   width:40%;
+   text-align: center;
+   line-height:40px;
+   font-size: 15px;
+   display: inline-block;
+   margin-right: 80px;
+   
+
+  
+}
+
+.p{
+   font-weight: 700;
+}
+ .p1{
+   display: inline-block;
+   margin-left: 150px;
+   font-size: 20px;
+   
+ }
+ .our{
+    text-align: center;
+    margin-bottom: 70px;
+    font-size: 30px;
+ }
+ .tap2{
+ width:500px;
+
+
+margin: 0 150px;
+margin-top: 70px;
+height: 850px;
+
+ }  
+
+.wight{
+  display: inline-block;
+}
+ .con{
+
+font-family: sans-serif;
+ width: 85%;
+ margin: 60px;
+ }
+
+ .form{
+  
+    margin-left: 50px;
+    padding: 30px;
+    
+ }
+
+ .input{
+    border: none;
+    border-bottom:2px solid rgb(212, 212, 212) ;
+   width: 85%;
+  padding: 20px;
+ 
+}
+
+.but{
+   margin-top: 30px;
+   border: none;
+   font-size: 20px;
+   background-color: rgb(233, 229, 229);
+}
+ .but:hover{
+    background-color: gray;
+ }
+
+ footer{
+    background-color: rgb(235, 231, 231);
+    text-align: center;
+    height: 100px;
+    margin-top: 50px;
+    padding-top: 50px;
+ }
+ 
+
+
+  
+ 
